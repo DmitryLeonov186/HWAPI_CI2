@@ -1,1 +1,1 @@
-gi
+[![Java CI with Gradle](https://github.com/DmitryLeonov186/HWAPI_CI2/actions/workflows/gradle.yml/badge.svg)](https://github.com/DmitryLeonov186/HWAPI_CI2/actions/workflows/gradle.yml)
